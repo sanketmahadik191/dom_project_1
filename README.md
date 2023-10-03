@@ -11,9 +11,11 @@ will be resized to 200 pixels and 300 pixels respectively, enhancing its overall
 
 ## UI
 
-![image](https://github.com/sanketmahadik191/dom_project_1/assets/125791466/35e2a46a-2112-4580-b3e6-9a585c53b592)
+![image](https://github.com/sanketmahadik191/dom_project_1/assets/125791466/7c1e113e-dd83-4194-9cde-da5f4fe2c961)
+
 
 ## JS Code
 
-![image](https://github.com/sanketmahadik191/dom_project_1/assets/125791466/f35b5ca0-f299-4100-aaad-d294cea7c4cd)
+![image](https://github.com/sanketmahadik191/dom_project_1/assets/125791466/a820dd54-d563-4f75-ae63-abf4925c87ed)
+
 
